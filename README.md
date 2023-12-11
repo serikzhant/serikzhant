@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Kindly visit my portfolio!
+serikzhant.github.io
 <!--
 **serikzhant/serikzhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
